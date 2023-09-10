@@ -1,2 +1,2 @@
 # mass_sender
-This is a basic sms sending script
+This is a basic mass messaging sending project
